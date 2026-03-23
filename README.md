@@ -260,7 +260,7 @@ MIT License — Free to use, adapt, and redistribute with attribution.
 If you adapt this material, please acknowledge:
 
 > *Workshop: "Mapping Molecular Landscapes: Open-Source Approaches to Chemical Space Exploration"*  
-> *Designed for CAISMD 2026.*
+> *Yannick Djoumbou Feunang;2026;  Computational Applications in Secondary Metabolite Discovery Workshop.*
 
 Key open-source tools used:
 - [RDKit](https://www.rdkit.org/) — Cheminformatics toolkit
