@@ -1,6 +1,6 @@
 # Mapping Molecular Landscapes: Open-Source Approaches to Chemical Space Exploration
 
-> A hands-on workshop for graduate students in chemistry and chemical biology.  
+> A hands-on workshop for graduate students and research scientists in chemistry and chemical biology.  
 > Context: Drug discovery for neglected tropical diseases (Malaria) and African natural products.  
 > **CAISMD 2026**
 
